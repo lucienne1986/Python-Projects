@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 25 21:13:31 2019
-
-@author: lucienne
-"""
 
 #UtilizingtheTicketmasterAPI,writeaPythonscriptthat:
 #
@@ -20,9 +14,6 @@ Created on Thu Jul 25 21:13:31 2019
 #iv. The most expensive ticket price of any event in the state
 #v. The event name of the event with the most expensive ticket price 
 #vi. The musician(s) of the event with the most expensive ticket price
-
-###notes on the Ticket API
-
 
 
 ##the following libraries need to installed via the termainal 
@@ -49,7 +40,9 @@ for event in pages:
 
 print("opening csv")
 #### Write API Results to CSV
+#create a csv file with the permission to WRITE (this will overwrite each time this script is run)
 with open('output.csv', 'w') as csvFile:
+    #creating an object called 'writer' to be able to access the csv and actually write    
     writer = csv.writer(csvFile, delimiter=',')
     #these are headings to the output table
     writer.writerow(['State', 'Musician_with_the_most_events', 'Venue_with_the_most_events', 'Most_Expensive_Ticket_price', 'event_name_of_the_event_with_the_most_expensive_ticket_price', 'The_musician(s)_of_the_event_with_the_most_expensive_ticket_price'])
