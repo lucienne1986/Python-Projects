@@ -34,7 +34,7 @@ pages = tm_client.events.find(
     )
  
 #for testing purposes to print on console
-for event in pages:
+for event in page:
     print(event)
 
 
@@ -47,7 +47,7 @@ with open('output.csv', 'w') as csvFile:
     #these are headings to the output table
     writer.writerow(['State', 'Musician_with_the_most_events', 'Venue_with_the_most_events', 'Most_Expensive_Ticket_price', 'event_name_of_the_event_with_the_most_expensive_ticket_price', 'The_musician(s)_of_the_event_with_the_most_expensive_ticket_price'])
     #all the events for today are being stored in  a csv file
-    for event in pages:
+    for event in page:
          writer.writerow([event])
 
 print("Done searching")
