@@ -1,0 +1,161 @@
+State,Musician_with_the_most_events,Venue_with_the_most_events,Most_Expensive_Ticket_price,event_name_of_the_event_with_the_most_expensive_ticket_price,The_musician(s)_of_the_event_with_the_most_expensive_ticket_price
+"Event:            Flamingo Uncovered
+Venues:           [<ticketpy.model.Venue object at 0x1240cd080>]
+Start date:       2019-07-26
+Start time:       13:00:00
+Price ranges:     [{'min': 49.0, 'max': 49.0}]
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x125270b38>]
+"
+"Event:            Camden Got Soul: Live Music
+Venues:           [<ticketpy.model.Venue object at 0x1240cd2b0>]
+Start date:       2019-07-26
+Start time:       21:00:00
+Price ranges:     []
+Status:           offsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cd438>]
+"
+"Event:            Esoteric - Sumer Dance II
+Venues:           [<ticketpy.model.Venue object at 0x1240cd518>]
+Start date:       2019-07-26
+Start time:       21:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cd7f0>]
+"
+"Event:            Hiroshima Mon Amour
+Venues:           [<ticketpy.model.Venue object at 0x1240cd860>]
+Start date:       2019-07-26
+Start time:       16:00:00
+Price ranges:     [{'min': 14.0, 'max': 14.0}]
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cdeb8>]
+"
+"Event:            Rose Matafeo: Horndog
+Venues:           [<ticketpy.model.Venue object at 0x1240cdc88>]
+Start date:       2019-07-26
+Start time:       21:00:00
+Price ranges:     [{'min': 21.25, 'max': 21.25}, {'min': 23.9, 'max': 23.9}]
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cd978>]
+"
+"Event:            The Sharpeez
+Venues:           [<ticketpy.model.Venue object at 0x1240cdc50>]
+Start date:       2019-07-26
+Start time:       21:00:00
+Price ranges:     []
+Status:           offsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cdcc0>]
+"
+"Event:            Mac King
+Venues:           [<ticketpy.model.Venue object at 0x1240cd208>]
+Start date:       2019-07-26
+Start time:       13:00:00
+Price ranges:     [{'min': 37.95, 'max': 47.95}]
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cd470>]
+"
+"Event:            Day Out with Thomas
+Venues:           [<ticketpy.model.Venue object at 0x1240cda90>]
+Start date:       2019-07-26
+Start time:       15:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cd3c8>]
+"
+"Event:            Riot Jazz W/ Agbeko
+Venues:           [<ticketpy.model.Venue object at 0x124167b00>]
+Start date:       2019-07-26
+Start time:       21:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1240cddd8>]
+"
+"Event:            LA Outdoor Expo & Boat Show
+Venues:           [<ticketpy.model.Venue object at 0x124167320>]
+Start date:       2019-07-26
+Start time:       15:00:00
+Price ranges:     [{'min': 8.0, 'max': 8.0}]
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x124167438>]
+"
+"Event:            HideSeek - July 26th
+Venues:           [<ticketpy.model.Venue object at 0x12440f4e0>]
+Start date:       2019-07-26
+Start time:       16:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x12440fb00>]
+"
+"Event:            Jeff Wayne's TWoTW: The Immersive Experience | 26th July 2019
+Venues:           []
+Start date:       2019-07-26
+Start time:       21:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  None
+"
+"Event:            Museum of Illusions  - July 26th
+Venues:           [<ticketpy.model.Venue object at 0x12440fac8>]
+Start date:       2019-07-26
+Start time:       16:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x12440f320>]
+"
+"Event:            A Grown-Up’s Guide to Flying - July 26th
+Venues:           [<ticketpy.model.Venue object at 0x12440f5c0>]
+Start date:       2019-07-26
+Start time:       16:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x12440f198>]
+"
+"Event:            2 Day Pass General Admission
+Venues:           [<ticketpy.model.Venue object at 0x12440fba8>]
+Start date:       2019-07-26
+Start time:       14:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  None
+"
+"Event:            Momo - Tributo a Queen - 45 Festival Internacional Música de Cambrils
+Venues:           [<ticketpy.model.Venue object at 0x12440f358>]
+Start date:       2019-07-26
+Start time:       22:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x12440fc50>]
+"
+"Event:            George Benson - Festival Jardins Terramar
+Venues:           [<ticketpy.model.Venue object at 0x1243c7208>]
+Start date:       2019-07-26
+Start time:       22:00:00
+Price ranges:     [{'min': 4.5, 'max': 130.0}, {'min': 45.0, 'max': 120.0}]
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1241ee9e8>]
+"
+"Event:            A Gentleman's Guide to Love and Murder
+Venues:           [<ticketpy.model.Venue object at 0x1243c7278>]
+Start date:       2019-07-26
+Start time:       14:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1243c79e8>]
+"
+"Event:            Cirque du Soleil: Amaluna
+Venues:           [<ticketpy.model.Venue object at 0x1243c7390>]
+Start date:       2019-07-26
+Start time:       16:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1243c7080>]
+"
+"Event:            The Lion King
+Venues:           [<ticketpy.model.Venue object at 0x1243c70f0>]
+Start date:       2019-07-26
+Start time:       13:00:00
+Price ranges:     []
+Status:           onsale
+Classifications:  [<ticketpy.model.EventClassification object at 0x1243c73c8>]
+"
