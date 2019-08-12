@@ -4,7 +4,7 @@ Utilizing the Ticketmaster API with a Python Script
 
 ## Getting Started
 
-1. Created an account to be able to retrieve the API key from the ticketmaster url viahttps://developer-acct.ticketmaster.com/user/login
+1. Created an account to be able to retrieve the API key from the ticketmaster url via https://developer-acct.ticketmaster.com/user/login
 
 2. Retrieve the api code to be able to extract the necessary data from Ticket Master
 
