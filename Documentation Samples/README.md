@@ -21,21 +21,14 @@ Tkinter is not the only GuiProgramming toolkit for Python. It is however the mos
 
 ## Step 1 - Creating a window and label
 
-import tkinter
-from tkinter import*
-import PIL
+Code sample in Python:
+![Code to create a window and a label](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image2.png)
 
-root = Tk() #creates teh window
-root.wm_title("Simple GUI") #display a title on the title bar
-root.geometry('500x300+300+300')#the dimensions of the window
+![output result for step 1](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image2.png)
 
-#add a label
-label1 = Label(root, text = "Simple GUI app")
-#display - Xaxis, Yaxis and side
-label1.pack(padx=10, pady=5, side=LEFT)
+## Step 2 - Creating a textbox and a button
 
-root.mainloop()#start monitoring and updating the GUI - This is the last line of the script
 
-![test](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image2.png)
+
 
 
