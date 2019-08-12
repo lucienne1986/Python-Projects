@@ -22,7 +22,7 @@ Tkinter is not the only GuiProgramming toolkit for Python. It is however the mos
 ## Step 1 - Creating a window and label
 
 Code sample in Python:
-![Code to create a window and a label](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image2.png)
+![Code to create a window and a label](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image1.png)
 
 ![output result for step 1](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image2.png)
 
