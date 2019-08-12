@@ -44,7 +44,7 @@ Note: Modification to this line: submitButton = Button(root, text = "Submit", co
 
 ![Code to create an event](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
 
-![output result for step 3](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+![output result for step 3](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image7.png)
 
 ## Step 4 - Creating a dropdown list with two items (Male and Female)
 
@@ -62,7 +62,7 @@ Note: Modification to this line: submitButton = Button(root, text = "Submit", co
 Image paths need to be changed to your local path
 
 ## Download Original Copy
-A copy of this code can be found on : 
+A copy of this code can be found on : Documentation Samples/pythonGUI.py
 
 
 
