@@ -5,6 +5,9 @@ The purpose of this file is to explain step-by-step how create a simple GUI appl
 ## Software Requirements
 Python 3+
 
+## Prerequistes
+Understanding of OOP concepts
+
 ## Install libraries
 The following two libraries are needed to be able to run GUI on python and access images. 
 
@@ -39,15 +42,27 @@ The main purpose of any button is to actually do something when it is pressed. T
   
 Note: Modification to this line: submitButton = Button(root, text = "Submit", command = buttonSubmit)
 
-![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+![Code to create an event](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
 
-![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+![output result for step 3](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
 
-## Step 4 - Creating a dropdown
+## Step 4 - Creating a dropdown list with two items (Male and Female)
 
-![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+![Code to create a dropdown list with two items](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image8.png)
 
-![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+![output result for step 4](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image9.png)
+
+## Step 5 - Adding an imagebox and displaying image depending on choice selected in Step 4
+
+![Code to display image depending on choice](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image10.png)
+
+![output result for step 4](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image11.png)
+
+## Additional notes
+Image paths need to be changed to your local path
+
+## Download Original Copy
+A copy of this code can be found on : 
 
 
 
