@@ -35,11 +35,19 @@ Code sample in Python:
 
 ## Step 3 - Controlling the button
 
-The main purpose of any button is to actually do something when it is pressed. This is called an event. In the following example, when the user presses the submit button, the code will call the function xxx and information about the user will be displayed
+The main purpose of any button is to actually do something when it is pressed. This is called an event. In the following example, when the user presses the submit button, the code will call the function submitButton and a message "Welcome <<name>>" is displayed.
+  
+Note: Modification to this line: submitButton = Button(root, text = "Submit", command = buttonSubmit)
 
-![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image4.png)
+![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
 
-![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image5.png)
+![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+
+## Step 4 - Creating a dropdown
+
+![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
+
+![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image6.png)
 
 
 
