@@ -28,6 +28,19 @@ Code sample in Python:
 
 ## Step 2 - Creating a textbox and a button
 
+Code sample in Python:
+![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image4.png)
+
+![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image5.png)
+
+## Step 3 - Controlling the button
+
+The main purpose of any button is to actually do something when it is pressed. This is called an event. In the following example, when the user presses the submit button, the code will call the function xxx and information about the user will be displayed
+
+![Code to create a textbox and a button](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image4.png)
+
+![output result for step 2](https://github.com/lucienne1986/Python-Projects/blob/master/Documentation%20Samples/img/image5.png)
+
 
 
 
