@@ -29,7 +29,7 @@ from ctransformers import AutoModelForCausalLM
 import chainlit as cl
 
 #variable to store the Orca Model
-llm = AutoModelForCausalLM.from_pretrained("TheBloke/orca_mini_3B-GGUF", model_file="orca-mini-3b.q4_0.gguf")
+llm = AutoModelForCausalLM.from_pretrained("zoltanctoth/orca_mini_3B-GGUF", model_file="orca-mini-3b.q4_0.gguf")
 
 # orca
 
@@ -69,14 +69,14 @@ def on_chat_start():
 *Loading the AI Model*
 ```python
 llm = AutoModelForCausalLM.from_pretrained(
-    "TheBloke/orca_mini_3B-GGUF", 
+    "zoltanctoth/orca_mini_3B-GGUF", 
     model_file="orca-mini-3b.q4_0.gguf"
 )
 ```
 
 ```AutoModelForCausalLM.from_pretrained(...)```: Loads the Orca Mini 3B model from Hugging Face.
 
-```"TheBloke/orca_mini_3B-GGUF"```: Refers to the model repository.
+```"zoltanctoth/orca_mini_3B-GGUF"```: Refers to the model repository.
 
 ```model_file="orca-mini-3b.q4_0.gguf"```: Specifies the exact model file for inference.
 
