@@ -171,8 +171,9 @@ Start chatting! 🚀
 
 ## :hammer_and_wrench: Customizations
 
-Modify the AI instructions in get_prompt() for different behaviors.
-Change stream=True to False if you want instant responses instead of streaming.
+Modify the AI instructions in ```get_prompt()``` for different behaviors.
+
+Change ```stream=True to False``` if you want instant responses instead of streaming.
 
 ## :link: References
 
