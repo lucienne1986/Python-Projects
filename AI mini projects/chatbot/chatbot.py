@@ -2,7 +2,7 @@ from ctransformers import AutoModelForCausalLM
 import chainlit as cl
 
 #variable to store the Orca Model
-llm = AutoModelForCausalLM.from_pretrained("TheBloke/orca_mini_3B-GGUF", model_file="orca-mini-3b.q4_0.gguf")
+llm = AutoModelForCausalLM.from_pretrained("zoltanctoth/orca_mini_3B-GGUF", model_file="orca-mini-3b.q4_0.gguf")
 
 # orca
 
