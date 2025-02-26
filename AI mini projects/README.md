@@ -71,10 +71,3 @@ Contributions are welcome! If you would like to contribute to this repository, p
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-
-
-
-## Chatbot - Creates a simple chatbot using Orca Model and ChainLit 
-
-The chatbot project includes source code to create a simple chatbot using Orca Model and ChainLit.
